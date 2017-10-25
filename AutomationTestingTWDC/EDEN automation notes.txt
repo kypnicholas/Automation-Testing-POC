@@ -1,6 +1,0 @@
-Technology stack:
-Maven - build automation and dependency management tool.
-Selenium Webdriver - automation framework
-TestNG - test automation framework
-Cucumber - BDD automation testing framework
-log4j - logging and reporting utility
