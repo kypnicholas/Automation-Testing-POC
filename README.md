@@ -1,5 +1,3 @@
-**AutomationTestingTWDC** - Code produced for regression testing of a Pega application.
-
 **amazonUK_selenium_testNG** - Work in progress - Code produced for automated testing of a user's happy path to finding an item they want to order from Amazon UK. 
 
 Technology stack:
