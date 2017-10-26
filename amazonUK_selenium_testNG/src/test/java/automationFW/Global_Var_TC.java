@@ -24,7 +24,7 @@ public class Global_Var_TC {
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
         driver.get(Constant.URL);
-        Log.info("Web application launched");
+        Log.info("Website launched");
 		
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		
@@ -34,7 +34,7 @@ public class Global_Var_TC {
 		// Pass Constant Variables as arguments to Execute method
 		Search_Action.Execute(driver, Constant.SearchText);
 		
-		System.out.println("Login Successfully, now it is the time to Log Off buddy.");
+		System.out.println("Time to Log Off");
 		
 		//Home_Page.lnk_LogOut(driver).click();
 		
