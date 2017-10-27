@@ -40,7 +40,7 @@ public class TestNG_Framework {
 
    @AfterMethod
    public void afterMethod() {
-	    //driver.quit();
+	   driver.quit();
     }
 
 }
